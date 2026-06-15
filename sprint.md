@@ -19,3 +19,9 @@ Permettre à un utilisateur de se connecter à son compte.
 Priorité : 3  
 Estimation : 3  
 Permettre à un utilisateur de réinitialiser son mot de passe.
+
+### US-04 — Consultation du catalogue
+
+Priorité : 1  
+Estimation : 5  
+Permettre de parcourir la liste des produits disponibles.
