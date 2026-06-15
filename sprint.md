@@ -43,3 +43,9 @@ Permettre de filtrer les produits par catégorie et prix.
 Priorité : 1  
 Estimation : 3  
 Afficher le détail complet d’un produit.
+
+### US-08 — Gestion des favoris
+
+Priorité : 2  
+Estimation : 3  
+Permettre d’ajouter ou retirer un produit des favoris.
