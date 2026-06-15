@@ -31,3 +31,9 @@ Permettre de parcourir la liste des produits disponibles.
 Priorité : 2  
 Estimation : 5  
 Permettre de rechercher un produit par mot-clé.
+
+### US-06 — Filtrage des produits
+
+Priorité : 2  
+Estimation : 5  
+Permettre de filtrer les produits par catégorie et prix.
