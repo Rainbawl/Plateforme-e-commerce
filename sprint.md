@@ -37,3 +37,9 @@ Permettre de rechercher un produit par mot-clé.
 Priorité : 2  
 Estimation : 5  
 Permettre de filtrer les produits par catégorie et prix.
+
+### US-07 — Consultation fiche produit
+
+Priorité : 1  
+Estimation : 3  
+Afficher le détail complet d’un produit.
