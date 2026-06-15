@@ -25,3 +25,9 @@ Permettre à un utilisateur de réinitialiser son mot de passe.
 Priorité : 1  
 Estimation : 5  
 Permettre de parcourir la liste des produits disponibles.
+
+### US-05 — Recherche de produits
+
+Priorité : 2  
+Estimation : 5  
+Permettre de rechercher un produit par mot-clé.
