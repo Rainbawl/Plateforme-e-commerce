@@ -43,3 +43,9 @@ Permettre de filtrer les produits par catégorie et prix.
 Priorité : 1  
 Estimation : 3  
 Afficher le détail complet d’un produit.
+
+### US-09 — Ajout au panier
+
+Priorité : 1  
+Estimation : 5  
+Permettre d’ajouter un produit au panier.
