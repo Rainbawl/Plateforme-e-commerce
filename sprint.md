@@ -31,3 +31,9 @@ Permettre de parcourir la liste des produits disponibles.
 Priorité : 2  
 Estimation : 5  
 Permettre de rechercher un produit par mot-clé.
+
+### US-07 — Consultation fiche produit
+
+Priorité : 1  
+Estimation : 3  
+Afficher le détail complet d’un produit.
