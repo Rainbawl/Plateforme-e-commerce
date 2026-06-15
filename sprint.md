@@ -13,3 +13,9 @@ Permettre à un utilisateur de créer un compte client.
 Priorité : 3  
 Estimation : 3  
 Permettre à un utilisateur de se connecter à son compte.
+
+### US-03 — Réinitialisation du mot de passe
+
+Priorité : 3  
+Estimation : 3  
+Permettre à un utilisateur de réinitialiser son mot de passe.
