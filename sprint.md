@@ -115,29 +115,3 @@ Afficher l’état d’avancement d’une commande.
 Priorité : 1  
 Estimation : 3  
 Permettre de télécharger la facture d’une commande.
-
-### US-20 — Gestion du profil client
-
-Priorité : 3  
-Estimation : 5  
-Permettre de modifier les informations du compte.
-
----
-
-## Tâches techniques
-
-### TC-01 — Refactoring
-
-Refactoring du code pour l'ajout au panier.
-
-### TC-11 — Logs
-
-Centraliser les journaux applicatifs.
-
-### TC-09 — CI/CD
-
-Automatiser vérifications et déploiements.
-
-### TC-10 — Monitoring
-
-Mettre en place supervision et alertes.
