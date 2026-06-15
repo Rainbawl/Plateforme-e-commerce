@@ -7,3 +7,9 @@
 Priorité : 1  
 Estimation : 5  
 Permettre à un utilisateur de créer un compte client.
+
+### US-02 — Connexion utilisateur
+
+Priorité : 3  
+Estimation : 3  
+Permettre à un utilisateur de se connecter à son compte.
